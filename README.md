@@ -10,12 +10,12 @@ ESCAPE is funded by NSF grants [RISE-2325476](https://www.nsf.gov/awardsearch/sh
 ## Schedule
 
 **Day 1:** Monday August 5
-- **9:00-10:15:** Introductions + Pre-survey - All present
-- **10:45-12:00:** Team-building activities - All (scavenger hunt)
+- **9:00-10:15:** Introductions + Pre-survey - All 
+- **10:45-12:00:** Team-building activities - All
 - **12:00-1:30:** Lunch provided
 - **1:30-2:45:** Python installation and setup
 - **3:00-4:15:** Intro Python activity
-- **4:30-5:30:** Career goal activity
+- **4:30-5:30:** Career goal activity - Cari
 
 **Day 2:** Tuesday August 6
 - **9:00-10:15:** Introduction to programming - Eric
@@ -23,7 +23,7 @@ ESCAPE is funded by NSF grants [RISE-2325476](https://www.nsf.gov/awardsearch/sh
 - **12:00-1:30:** Lunch provided
 - **1:30-2:45:** Data in Python - Eric
 - **3:00-4:15:** Data activity
-- **4:30-5:30:** Mentor/career mapping
+- **4:30-5:30:** Mentor/career mapping - Cari
 
 **Day 3:** Wednesday August 7
 - **9:00-10:15:** Data Visualization - Yolanda
@@ -39,7 +39,7 @@ ESCAPE is funded by NSF grants [RISE-2325476](https://www.nsf.gov/awardsearch/sh
 - **12:00-1:30:** Lunch provided
 - **1:30-2:45:** QGIS activity
 - **3:00-4:15:** Group project time
-- **4:30-5:30:** Field prep
+- **4:30-5:30:** Field preparations
 
 **Day 5:** Friday August 9
 - **8:00-2:30:** Field day! Note early start!
@@ -69,7 +69,7 @@ ESCAPE is funded by NSF grants [RISE-2325476](https://www.nsf.gov/awardsearch/sh
 - **4:30-5:30:** Cover letter activity
 
 **Day 10:** Wednesday August 14
-- **9:00-10:15:** Data visualization part 2 & errors
+- **9:00-10:15:** Data visualization part 2 & errors - Yolanda
 - **10:45-12:00:** Visualization activity
 - **12:00-1:30:** Lunch with ASPIRE
 - **1:30-2:45:** Visualization activity
@@ -77,7 +77,7 @@ ESCAPE is funded by NSF grants [RISE-2325476](https://www.nsf.gov/awardsearch/sh
 - **4:30-5:30:** Undergraduate research/success panel
 
 **Day 11:** Thursday August 15
-- **9:00-10:15:** Machine Learning
+- **9:00-10:15:** Machine Learning - Chris
 - **10:45-12:00:** ML Activity, vegetation classification
 - **12:00-1:30:** Lunch on the lawn with EPS department
 - **1:30-2:45:** Group project time
