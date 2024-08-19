@@ -48,13 +48,13 @@ Lecture slides and course materials are available on [Google drive](https://driv
 - **3:00-4:15:** Group project time
 - **4:30-5:30:** Group project checkins
 
-**Day 6:** Saturday August 10
+Saturday August 10
 - **Rest day** (no activities planned)
 
-**Day 7:** Sunday August 11
+Sunday August 11
 - **Rest day** (no activities planned)
 
-**Day 8:** Monday August 12
+**Day 6:** Monday August 12
 - **9:00-10:15:** Seismology - Lindsay
 - **10:45-12:00:** Seismic/field data analysis
 - **12:00-1:30:** Lunch with EPS grads
@@ -62,7 +62,7 @@ Lecture slides and course materials are available on [Google drive](https://driv
 - **3:00-4:15:** Group project time
 - **4:30-5:30:** Grad school panel
 
-**Day 9:** Tuesday August 13
+**Day 7:** Tuesday August 13
 - **9:00-10:15:** Geodesy - Eric
 - **10:45-12:00:** Geodesy activity
 - **12:00-1:30:** Lunch with Transformation Network
@@ -70,15 +70,15 @@ Lecture slides and course materials are available on [Google drive](https://driv
 - **3:00-4:15:** Group project time
 - **4:30-5:30:** Cover letter activity
 
-**Day 10:** Wednesday August 14
+**Day 8:** Wednesday August 14
 - **9:00-10:15:** Data visualization part 2 & errors - Yolanda
 - **10:45-12:00:** Visualization activity
-- **12:00-1:30:** Lunch with ASPIRE
+- **12:00-1:30:** Lunch with EPS grads
 - **1:30-2:45:** LiDAR data activity
 - **3:00-4:15:** Group project time
 - **4:30-5:30:** Undergraduate research/success panel
 
-**Day 11:** Thursday August 15
+**Day 9:** Thursday August 15
 - **9:00-10:15:** Machine Learning - Chris
 - **10:45-12:00:** ML Activity, vegetation classification
 - **12:00-1:30:** Lunch on the lawn with EPS department
@@ -86,8 +86,7 @@ Lecture slides and course materials are available on [Google drive](https://driv
 - **3:00-4:15:** Group project time
 - **4:30-5:30:** Faculty questions panel
 
-**Day 12:** Friday August 16
+**Day 10:** Friday August 16
 - **9:00-10:15:** Group presentations
-- **10:45-12:00:** Group presentations
-- **12:00-1:30:** Celebratory lunch off-site
-- **1:30-2:00:** Wrap-up
+- **10:45-12:00:** Group presentations and wrap-up
+- **12:00-1:30:** Celebratory lunch
