@@ -49,7 +49,7 @@ Lecture slides and course materials are available on [Google drive](https://driv
 - **4:30-5:30:** Group project checkins
 
 **Day 6:** Saturday August 10
-- **11:00-2:30:** BBQ off-site
+- **Rest day** (no activities planned)
 
 **Day 7:** Sunday August 11
 - **Rest day** (no activities planned)
@@ -74,7 +74,7 @@ Lecture slides and course materials are available on [Google drive](https://driv
 - **9:00-10:15:** Data visualization part 2 & errors - Yolanda
 - **10:45-12:00:** Visualization activity
 - **12:00-1:30:** Lunch with ASPIRE
-- **1:30-2:45:** Visualization activity
+- **1:30-2:45:** LiDAR data activity
 - **3:00-4:15:** Group project time
 - **4:30-5:30:** Undergraduate research/success panel
 
