@@ -1,0 +1,25 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-08T10:27:49.034Z,31.622,-103.982,7.417,5.2,ml(texnet),31,52,0,0.2,tx,tx2023vxae,2024-08-07T10:37:52.186Z,"Coalson Draw, Texas",earthquake,0.630665544,0.84195802,0.2,41,reviewed,tx,tx
+2022-11-24T19:19:28.583Z,31.62673498,-104.0029099,8.483850098,4.7,ml,52,31,0.01444632,0.1,tx,tx2022xaxs,2023-01-30T06:01:35.040Z,"34 km WSW of Mentone, Texas",earthquake,0.463415927,0.512971147,0.2,69,reviewed,tx,tx
+2022-11-24T19:14:19.519Z,31.63414005,-103.9876096,7.429821777,4.5,ml,42,47,0.028418108,0.1,tx,tx2022xaxp,2023-01-30T06:01:35.040Z,western Texas,earthquake,0.427153702,0.562830798,0.2,42,reviewed,tx,tx
+2022-11-16T21:32:44.481Z,31.6367452,-103.9987871,6.902807617,5.4,ml,42,46,0.023451524,0.1,tx,tx2022wmmd,2023-11-16T21:42:49.526Z,"Coalson Draw, Texas",earthquake,0.462810906,0.629622792,0.2,21,reviewed,tx,tx
+2022-08-11T07:17:16.599Z,31.68330721,-104.4253993,6.645727539,4.5,ml,53,49,0.065918723,0.2,tx,tx2022pqec,2022-10-21T23:20:28.040Z,"54 km S of Whites City, New Mexico",earthquake,0.859389771,0.969251097,0.1,28,reviewed,tx,tx
+2022-07-21T13:35:58.088Z,31.68011905,-104.4210628,5.92590332,4.9,ml,24,69,0.068921916,0.2,tx,tx2022oeha,2022-09-27T16:57:12.040Z,"55 km S of Whites City, New Mexico",earthquake,1.081627489,1.306781453,0.2,15,reviewed,tx,tx
+2022-06-01T15:46:10.839Z,31.71526584,-104.5509138,6.157275391,4.6,ml,45,90,0.048927009,0.3,tx,tx2022krce,2022-08-06T22:13:13.040Z,"53 km SSW of Whites City, New Mexico",earthquake,1.554475743,0.987253086,0.1,25,reviewed,tx,tx
+2022-03-25T03:01:58.874Z,31.66909306,-104.4204226,6.799975586,4.6,ml,65,61,0.068500425,0.2,tx,tx2022fvwu,2022-05-28T18:35:35.040Z,"56 km S of Whites City, New Mexico",earthquake,0.892216658,1.01192887,0.2,38,reviewed,tx,tx
+2021-03-17T04:19:28.359Z,31.65433164,-104.3573154,6.182983398,4.5,ml,53,61,0.123141045,0.3,tx,tx2021fhjh,2021-05-26T22:08:23.040Z,"57 km S of Whites City, New Mexico",earthquake,0.826692583,1.088730241,0.2,29,reviewed,tx,tx
+2020-03-26T15:16:27.940Z,31.7168,-104.0419,9.51,5,mww,,25,0.218,0.64,us,us70008ggn,2023-11-09T01:53:32.033Z,"41 km W of Mentone, Texas",earthquake,2.4,3.3,0.034,81,reviewed,us,us
+2014-06-29T04:59:35.390Z,32.5822,-109.1682,6.44,5.3,mww,,54,1.169,0.69,us,usc000rnfe,2022-07-26T18:29:21.204Z,"13 km SW of Franklin, Arizona",earthquake,,3.3,,,reviewed,us,us
+2011-08-23T05:46:18.250Z,37.063,-104.701,4,5.3,mwr,187,26,,0.98,us,usp000j6wm,2023-11-27T02:26:56.258Z,"6 km S of Valdez, Colorado",earthquake,,1.8,,,reviewed,us,us
+2011-08-22T23:30:19.870Z,37.032,-104.554,5,4.7,mwr,243,15.4,,1.23,us,usp000j6w4,2020-04-16T16:40:47.288Z,"9 km SSW of Starkville, Colorado",earthquake,,,,,reviewed,us,us
+2005-08-10T22:08:22.610Z,36.947,-104.833,5,5,mwc,177,21.4,,0.68,us,usp000dx3k,2022-05-02T18:15:49.063Z,"20 km S of Weston, Colorado",earthquake,,,,,reviewed,us,hrv
+1992-01-02T11:45:35.610Z,32.336,-103.101,5,4.6,mb,,,,0.8,us,usp000519d,2020-08-29T01:11:55.698Z,"12 km SSE of Eunice, New Mexico",earthquake,,,,8,reviewed,us,us
+1990-01-29T13:16:10.680Z,34.463,-106.879,12,4.5,mb,,,,,us,usp00044ve,2020-08-28T23:21:36.336Z,"6 km W of Abeytas, New Mexico",earthquake,,,,6,reviewed,snm,us
+1989-11-29T06:54:38.500Z,34.455,-106.891,13,4.6,mb,,,,,us,usp00042j1,2018-06-04T20:43:45.000Z,"7 km W of Abeytas, New Mexico",earthquake,,,,5,reviewed,snm,us
+1977-03-05T03:00:54.700Z,35.915,-108.286,22,4.6,mb,,,,,us,usp0000mtk,2020-07-10T22:01:23.409Z,"22 km SSW of Lake Valley, New Mexico",earthquake,,,,,reviewed,us,us
+1976-01-05T06:23:32.900Z,35.844,-108.341,25,5,mb,,,,,us,usp0000e9z,2022-04-27T17:19:45.669Z,"25 km NW of Crownpoint, New Mexico",earthquake,,,,,reviewed,us,us
+1975-08-01T07:27:57.300Z,31.425,-104.012,5,4.8,mb,,,,,us,usp0000c8u,2014-11-06T23:21:31.536Z,"24 km WNW of Toyah, Texas",earthquake,,,,,reviewed,us,us
+1973-03-17T07:43:05.500Z,36.087,-106.168,6,4.5,mb,,,,,us,usp00000z6,2014-11-06T23:21:10.078Z,"2 km SW of Chili, New Mexico",earthquake,,,,,reviewed,us,us
+1971-01-04T07:39:07.000Z,35.1,-106.6,,4.7,mb,,,,,ushis,ushis3126,2020-04-16T21:05:13.387Z,"4 km ENE of Albuquerque, New Mexico",earthquake,,,,,reviewed,ushis,us
+1970-11-28T07:40:11.800Z,35.1,-106.61,,4.5,mb,,,,,ushis,ushis3122,2020-04-16T21:05:33.927Z,"4 km ENE of Albuquerque, New Mexico",earthquake,,,,,reviewed,ushis,us
+1966-01-23T01:56:39.980Z,36.97,-106.954,10,5.13,mw,,,,,iscgem,iscgem851116,2024-01-17T20:42:20.030Z,"4 km NNW of Lumberton, New Mexico",earthquake,,25,0.3,,reviewed,iscgem,iscgem
