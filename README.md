@@ -7,7 +7,7 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 
 ESCAPE is funded by NSF grants [RISE-2325476](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2325476) and [OCE-2314273](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314273).
 
-Lecture slides and course materials are available on [Google drive](https://drive.google.com/drive/folders/1IycZlHgXT5PW6ggUWgCm26ELZVs9K133?usp=sharing).
+This repository contains the python notebooks and associated files for activities on days 1, 2, 7, 8, and 9. Additional course materials, shared files, and lecture slides are available on [Google drive](https://drive.google.com/drive/folders/1IycZlHgXT5PW6ggUWgCm26ELZVs9K133?usp=sharing).
 
 ## Schedule
 
